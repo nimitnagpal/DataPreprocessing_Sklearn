@@ -1,6 +1,6 @@
-Data processing using scikitlearn library: 
+Data processing for supervised machine learning using scikitlearn library: 
 
-Used a small dataset of countries, age, salary and whether they would buy a certain product or not, from Udemy ML tutorial of countries and performed Data preprocessing.
+Used a sample small dataset of countries, age, salary and whether they would buy a certain product or not, from Udemy ML tutorial of countries and performed Data preprocessing.
 
 STEPS:
 
